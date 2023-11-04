@@ -9,4 +9,8 @@ I have interset in:
 4. Natural Language Processing.
    
 Languages and Tools: 
-Python, HTML, CSS, Bootstrap, MongoDB, MySQL, Docker, AWS, Scikit Learn, tensorflow, Git, Django, Flask,
+Python, HTML, CSS, Bootstrap, MongoDB, MySQL, Docker, AWS, Scikit Learn, tensorflow, Git, Django, Flask.
+
+Just hit and connect with me :
+https://www.linkedin.com/in/roshan-kshirsagar-b05233233/
+roshankshirsagar1666@gmail.com
